@@ -1,0 +1,11 @@
+replace(beg, end, old_val, new_val);
+    将 beg 和 end 之间等于 old_val 的值都替换成 new_val
+
+replace_if(beg, end, pred, new_val);
+    将 beg 和 end 之间让 pred 非 0 的值都替换成 new_val
+
+replace_copy(beg, end, dest，old_val, new_val);
+    将 beg 和 end 之间等于 old_val 的值都替换成 new_val，并将该区间内的所有内容都 copy 到 dest 中
+
+replace_copy_if(beg, end, dest, pred, new_val);
+    将 beg 和 end 之间让 pred 非 0 的值都替换成 new_val，并将该区间内的所有内容都 copy 到 dest 中

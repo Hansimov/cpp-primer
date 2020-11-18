@@ -1,0 +1,7 @@
+list 上的迭代器属于双向迭代器。
+vector 上的迭代器属于随机访问迭代器。
+
+* Difference between Vector and List in C++ – thispointer.com 
+    * https://thispointer.com/difference-between-vector-and-list-in-c/
+* Difference Between Vector and List - GeeksforGeeks 
+    * https://www.geeksforgeeks.org/difference-between-vector-and-list/
