@@ -1,0 +1,4 @@
+count
+    统计关键字的数目，用于 multimap、multiset
+find
+    查找是否存在关键字，用于 map、set

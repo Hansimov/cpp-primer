@@ -1,0 +1,8 @@
+无序容器的优势：
+    访问的性能更高：无序关联容器是 O(1)，有序关联容器是 O(log n)，顺序容器是 O(n)
+有序容器的优势：
+    迭代器可以按照关键字的字典序访问
+    可以用我们自定义的类来定义其关键字类型
+
+* c++11 - Why use an unordered container? (C++) - Stack Overflow 
+    * https://stackoverflow.com/questions/14529698/why-use-an-unordered-container-c

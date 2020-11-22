@@ -1,0 +1,12 @@
+分别给出最适合使用 list、vector、deque、map 以及 set 的例子。
+
+list
+    插入和删除节点。
+vector
+    顺序数据的增删改查。
+deque
+    消息队列。FIFO。
+map
+    字典。
+set
+    查找数据是否在集合中。

@@ -1,0 +1,5 @@
+map 和 vector 的不同：
+
+* map 是关联容器，vector 是顺序容器
+* map 通过键来检索值，vector 通过下表来检索值
+* 
