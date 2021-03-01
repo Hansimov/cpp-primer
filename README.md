@@ -1,4 +1,5 @@
-# 本书信息
-
-本书包含 C++ 的常见知识点和问题，以及《C++ Primer》一书的问题。
-
+# 参考链接
+* C++ Primer 5th 习题参考答案：pezy/CppPrimer
+    * https://github.com/pezy/CppPrimer
+* huihut/interview: C/C++ 技术面试基础知识总结
+    * https://github.com/huihut/interview
